@@ -1,6 +1,6 @@
 ---
 layout: member
-category: professor
+category: staff
 title: 박우찬
 image: park.jpg
 role: Lab Director

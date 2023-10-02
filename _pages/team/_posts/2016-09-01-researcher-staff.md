@@ -1,8 +1,8 @@
 ---
 layout: member
-category: staff
-title: Researcher Name
-image: researcher.png
+category: professor
+title: 박우찬
+image: park.jpg
 role: Lab Director
 permalink: 'team/researcher-name'
 social:

@@ -1,8 +1,8 @@
 ---
 layout: member
 category: student
-title: Researcher Name
-image: researcher.png
+title: 김정명
+image: kjm.jpg
 role: PhD Student
 permalink: 'team/researcher-name'
 social:

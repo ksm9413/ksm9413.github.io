@@ -1,9 +1,4 @@
-- date: 23/09/25
-  title: "News"
-  tags:
-    - some
-    - tags
-  content: |
+- content: |
     1. SiliconArts Real-time Ray Tracing GPU IP (APAC CIO Outlook)
     2. 전자신문 "차세대 레이트레이싱그래픽 게임 VR시장 판도 바꿀것" 기사 게재 (人사이트)
     3. IDEC News letter 2017/7월호 (가상현실 3D 사운드를 위한 실시간 sound tracing 기술 개발)

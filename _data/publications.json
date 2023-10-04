@@ -1,40 +1,168 @@
 [
-	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
-		"author": [
-			{
-				"family": "Naylor",
-				"given": "P."
-			},
-			{
-				"family": "Laé",
-				"given": "M."
-			},
-			{
-				"family": "Reyal",
-				"given": "F."
-			},
-			{
-				"family": "Walter",
-				"given": "T."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					2
-				]
-			]
-		}
-	}
+    {
+        "title": "Effective Algorithm to Control Depth Level for Performance Improvement of Sound Tracing",
+        "journal": "JOURNAL OF WEB ENGINEERING",
+        "year": "2022"
+    },
+    {
+        "title": "Lossless Compression Algorithm and Architecture for Reduced Memory Bandwidth Requirement with Improved Prediction Based on the Multiple DPCM Golomb-Rice Algorithm",
+        "journal": "JOURNAL OF WEB ENGINEERING",
+        "year": "2021"
+    },
+    {
+        "title": "An Effective Burst Access Scheme for Lossless Frame Buffer Compression on a Video Decoder",
+        "journal": "IEEE ACCESS",
+        "year": "2021"
+    },
+    {
+        "title": "An Implementation of Multi-Chip Architecture for Real-Time Ray Tracing Based on Parallel Frame Rendering",
+        "journal": "IEEE ACCESS",
+        "year": "2021"
+    },
+    {
+        "title": "A Latency-Effective Pipelined Divider for Double-Precision Floating-Point Numbers",
+        "journal": "IEEE Access",
+        "year": "2020"
+    },
+    {
+        "title": "Load Balancing Algorithm for Real-Time Ray Tracing of Dynamic Scenes",
+        "journal": "IEEE Access",
+        "year": "2020"
+    },
+    {
+        "title": "An Effective Algorithm and Architecture for the High-Throughput Lossless Compression of High-Resolution Images",
+        "journal": "IEEE ACCESS",
+        "year": "2019"
+    },
+    {
+        "title": "A Practically Applicable Performance Prediction Model Based on Capabilities of Texture Mapping Units for Mobile GPUs",
+        "journal": "IEEE ACCESS",
+        "year": "2019"
+    },
+    {
+        "title": "A Novel Performance Prediction Model for Mobile GPUs",
+        "journal": "IEEE Access",
+        "year": "2018"
+    },
+    {
+        "title": "Geometry transition method to improve ray-tracing precision",
+        "journal": "MULTIMEDIA TOOLS AND APPLICATIONS",
+        "year": "2016"
+    },
+    {
+        "title": "HART: A Hybrid Architecture for Ray Tracing Animated Scenes",
+        "journal": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS",
+        "year": "2015"
+    },
+    {
+        "title": "RayCore: A ray-tracing hardware architecture for mobile devices",
+        "journal": "Acm Transactions On Graphics",
+        "year": "2014"
+    },
+    {
+        "title": "Effective traversal algorithms and hardware architecture for pyramidal inverse displacement mapping",
+        "journal": "Computers And Graphics",
+        "year": "2014"
+    },
+    {
+        "title": "Ray box culling for tree structures",
+        "journal": "Journal Of Information Science And Engineering",
+        "year": "2013"
+    },
+    {
+        "title": "Node pre-fetching architecture for real-time ray tracing",
+        "journal": "Ieice Electronics Express",
+        "year": "2013"
+    },
+    {
+        "title": "Effective Fixed-Point Pipelined Divider for Mobile Rendering Processors",
+        "journal": "Ieice Transactions On Information And Systems E96-D",
+        "year": "2013"
+    },
+    {
+        "title": "A Pixel Pipeline Architecture with Selective Z-Test Scheme for 3D Graphics Processors",
+        "journal": "Microprocessors And Microsystems",
+        "year": "2013"
+    },
+    {
+        "title": "gkDtree : A Group-Based Parallel Update Kd-tree for Interactive Ray Tracing",
+        "journal": "Journal Of Systems Architecture",
+        "year": "2013"
+    },
+    {
+        "title": "Efficient ray sorting for the tracing of incoherent rays",
+        "journal": "IEICE ELECTRONICS EXPRESS",
+        "year": "2012"
+    },
+    {
+        "title": "T&I Engine: Traversal and Intersection Engine for Hardware Accelerated Ray Tracing",
+        "journal": "ACM Transactions on Graphics",
+        "year": "2011"
+    },
+    {
+        "title": "A Lossless Color Image Compression Architecture Using a Parallel Golomb-Rice Hardware CODEC",
+        "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+        "year": "2011"
+    },
+    {
+        "title": "The design of a texture mapping unit with effective MIP-map level selection for real-time ray tracing",
+        "journal": "IEICE Electronics Express",
+        "year": "2011"
+    },
+    {
+        "title": "An effective rasterization architecture for mobile vector graphics processors",
+        "journal": "IEICE Electronics Express",
+        "year": "2011"
+    },
+    {
+        "title": "An effective depth data memory system using an escape count buffer for 3D rendering processors",
+        "journal": "IEICE Electronics Express",
+        "year": "2011"
+    },
+    {
+        "title": "The design of compressed memory system for depth data in 3D rendering processors",
+        "journal": "IEICE Electronics Express",
+        "year": "2010"
+    },
+    {
+        "title": "A high performance network-on-chip scheme using lossless data compression",
+        "journal": "IEICE Electronics Express",
+        "year": "2010"
+    },
+    {
+        "title": "An Effective Load Balancing Scheme for 3D Texture-based Sort-Last Parallel Volume Rendering on GPU Clusters",
+        "journal": "IEICE Transactions on Information and Systems E91D-3",
+        "year": "2008"
+    },
+    {
+        "title": "A Simulation Development Environments for Mobile 3D Graphics Architecture",
+        "journal": "IET Computers & Digital Techniques",
+        "year": "2007"
+    },
+    {
+        "title": "A Consistency-free Memory Architecture for Sort-last Parallel Rendering Processors",
+        "journal": "JOURNAL OF SYSTEMS ARCHITECTURE",
+        "year": "2007"
+    },
+    {
+        "title": "An Effective Bump Mapping Hardware Architecture Using Polar Coordinate System",
+        "journal": "Journal of Information Science and Engineering",
+        "year": "2007"
+    },
+    {
+        "title": "An Effective Visibility Culling Method Based on Cache Block",
+        "journal": "IEEE Transactions on Computers",
+        "year": "2006"
+    },
+    {
+        "title": "A Processor Architecture with Effective Memory System for Sort-Last Parallel Rendering",
+        "journal": "Lecture Notes in Computer Science",
+        "year": "2006"
+    },
+    {
+        "title": "A Simple and Efficient Triangle Strip Filtering Algorithm",
+        "journal": "JOURNAL OF INFORMATION SCIENCE AND ENGINEERING",
+        "year": "2005"
+    }
+    // 나머지 논문들
 ]

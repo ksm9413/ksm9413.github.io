@@ -32,10 +32,11 @@ permalink: /publications/
             <!-- issued date -->
             ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
 
-            <!-- DOI -->
+            <!--
             {% if publi.DOI %}
                 <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
             {% endif %}
+            DOI -->
             </a>
         </div>
 
@@ -43,8 +44,10 @@ permalink: /publications/
             <div class="panel-body">
                 <p>{{ publi.abstract }}</p>
 
+                <!--
                 <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
                    role="button" target="blank">Link</a>
+                -->
             </div>
         </div>
     {% endfor %}

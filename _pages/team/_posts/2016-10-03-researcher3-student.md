@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: 김지영
-image: researcher.png
+image: kjy.png
 role: PhD Student
 permalink: 'team/researcher-name'
 social:

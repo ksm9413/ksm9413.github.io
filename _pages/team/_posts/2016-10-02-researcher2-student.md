@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: 한윤호
-image: researcher.png
+image: hyh.png
 role: PhD Student
 permalink: 'team/researcher-name'
 social:

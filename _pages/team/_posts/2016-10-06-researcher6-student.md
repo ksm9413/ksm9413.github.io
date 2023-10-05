@@ -1,8 +1,8 @@
 ---
 layout: member
 category: student
-title: 김정명
-image: kjm.jpg
+title: 최석원
+image: researcher.png
 role: PhD Student
 permalink: 'team/researcher-name'
 social:

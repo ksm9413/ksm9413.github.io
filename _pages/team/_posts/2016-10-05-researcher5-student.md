@@ -3,7 +3,7 @@ layout: member
 category: student
 title: 김의준
 image: researcher.png
-role: PhD Student
+role: MS Student
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/

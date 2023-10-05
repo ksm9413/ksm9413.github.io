@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: 소정웅
-image: researcher.png
+image: sjw.jpg
 role: MS Student
 permalink: 'team/researcher-name'
 social:

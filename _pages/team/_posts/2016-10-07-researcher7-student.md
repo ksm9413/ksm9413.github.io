@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: 김은재
-image: researcher.png
+image: kej.png
 role: PhD Student
 permalink: 'team/researcher-name'
 social:

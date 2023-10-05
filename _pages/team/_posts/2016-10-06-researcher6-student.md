@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: 최석원
-image: researcher.png
+image: csk.jpg
 role: PhD Student
 permalink: 'team/researcher-name'
 social:

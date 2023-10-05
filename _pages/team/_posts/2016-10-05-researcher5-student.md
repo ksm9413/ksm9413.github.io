@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: 김의준
-image: researcher.png
+image: kuj.jpg
 role: MS Student
 permalink: 'team/researcher-name'
 social:

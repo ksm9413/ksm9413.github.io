@@ -13,9 +13,11 @@ permalink: /publications/
 
     {% for publi in site.data.publications %}
         <div class="panel-heading">
+            <!--
             <a data-toggle="collapse" data-parent="#accordion"
                href="#collapse{{forloop.index}}"
                style="color: inherit;">
+            -->
             <!-- authors -->
             {% assign authors = "" | split:"/" %}
             {% for author in publi.author %}
